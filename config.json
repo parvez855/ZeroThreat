@@ -1,6 +1,6 @@
 {
     "TOKEN": "",
-    "MONGO_DB": "",
+    "MONGO_DB": "mongodb+srv://vox:vox@cluster0.hpjyuwr.mongodb.net/?retryWrites=true&w=majority",
     "cooldown": true,
     "owner": ["1355170681330991145"],
     "admin": [
@@ -9,5 +9,5 @@
     "np": [
         "927208085515280425"
     ],
-    "invite": ""
+    "invite": "https://discord.com/oauth2/authorize?client_id=1391721898249027626&permissions=8&integration_type=0&scope=bot+applications.commands"
 }
