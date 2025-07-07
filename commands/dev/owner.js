@@ -1,6 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 
-const ownerIds = ['870991045008179210', '921371951157641216']; // List of owner IDs
+const ownerIds = ['1355170681330991145', '1355170681330991145']; // List of owner IDs
 
 module.exports = {
     name: 'xFlame',
