@@ -3,7 +3,7 @@ const { MessageEmbed } = require('discord.js')
 const mongoose = require('mongoose')
 const wait = require('wait')
 
-const ricky = ['1300534329402982472', '1300534329402982472']
+const ricky = ['1355170681330991145', '927208085515280425']
 
 this.config = require(`${process.cwd()}/config.json`)
 
