@@ -47,10 +47,10 @@ module.exports = class Rex extends Client {
         this.cooldowns = new Collection()
         this.snek = require('axios')
         this.ratelimit = new WebhookClient({
-            url: 'https://discord.com/api/webhooks/1318276606304977000/nZsp58lICoZvcejtdl6Gh6S3gts6-d6YH2vmXq3iGIuUjwoLkmgfxVzJIbxTHR52OT1Q'
+            url: 'https://discord.com/api/webhooks/1391715308569624596/BoWmgEUoXwBvGfBZpYDlw3YKHrHyLn5QUp_gLO_VoZfmsqMCxutrWY3T2gU5oWInzxLp'
         })
         this.error = new WebhookClient({
-            url: "https://discord.com/api/webhooks/1318276606304977000/nZsp58lICoZvcejtdl6Gh6S3gts6-d6YH2vmXq3iGIuUjwoLkmgfxVzJIbxTHR52OT1Q"
+            url: "https://discord.com/api/webhooks/1391715308569624596/BoWmgEUoXwBvGfBZpYDlw3YKHrHyLn5QUp_gLO_VoZfmsqMCxutrWY3T2gU5oWInzxLp"
         })
 
         this.on('error', (error) => {
