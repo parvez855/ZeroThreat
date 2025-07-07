@@ -16,16 +16,16 @@ module.exports = {
                 new MessageButton()
                     .setLabel('Premium')    
                     .setStyle('LINK')
-                    .setURL('https://discord.gg/rfzop')
+                    .setURL('https://discord.gg/56uzCcbVDs')
             );
 
-            let link = 'https://discord.gg/rfzop';
+            let link = 'https://discord.gg/56uzCcbVDs';
 
             if (!args[0]) {
                 embed.setAuthor(
                     `${client.user.username} Premium`,
                     client.user.displayAvatarURL(),
-                    'https://discord.gg/rfzop'
+                    'https://discord.gg/56uzCcbVDs'
                 );
                 embed.setThumbnail(message.guild.iconURL({ dynamic: true }));
                 embed.setDescription(
@@ -214,7 +214,7 @@ module.exports = {
                     embed.setAuthor(
                         `${client.user.username} Premium`,
                         client.user.displayAvatarURL(),
-                        'https://discord.gg/rfzop'
+                        'https://discord.gg/56uzCcbVDs'
                     );
                     embed.setThumbnail(message.guild.iconURL({ dynamic: true }));
                     embed.setDescription(
