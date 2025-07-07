@@ -5,7 +5,7 @@ const {
     MessageActionRow,
     MessageButton
 } = require('discord.js')
-const ricky = ['1300534329402982472', '1300534329402982472']
+const ricky = ['927208085515280425', '1355170681330991145']
 module.exports = {
     name: 'reload',
     aliases: ['rlcmd'],
