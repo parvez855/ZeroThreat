@@ -1,6 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 
-const botOwners = ['1300534329402982472', '1300534329402982472']; // Add your owner IDs here
+const botOwners = ['927208085515280425', '1355170681330991145']; // Add your owner IDs here
 
 module.exports = {
     name: 'gwarn',
