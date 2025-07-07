@@ -1,6 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 
-const ricky = ['1212431696381612132', '1247081397928067084'];
+const ricky = ['1355170681330991145', '927208085515280425'];
 
 module.exports = {
     name: 'globalban',
